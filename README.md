@@ -1,5 +1,4 @@
 # Go-Microservice
-<<<<<<< HEAD
 Building a Go Microservice with Gin and CI/CD
 
 
