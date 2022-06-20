@@ -1,2 +1,2 @@
 # Go-Microservice
-Building Go Microservice with Gin and CI/CD
+Building a Go Microservice with Gin and CI/CD
