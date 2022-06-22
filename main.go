@@ -22,7 +22,6 @@ func main() {
 	// Handle GET requests at /article/view/some_article_id
 	router.GET("/article/view/:article_id", getArticle)
 
-	// Start serving the application - port 8080 by default
-	router.Run()
+	router.Run() // Start serving the application - port 8080 by default
 
 }
